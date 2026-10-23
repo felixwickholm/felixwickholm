@@ -1,11 +1,13 @@
 ### Felix Wickholm
 
-Founder of [Wicflow](https://wicflow.com) — AI automation agency based in Helsinki.
-I build agent systems that run real business operations: inbox triage, lead gen, CRM automation, voice AI.
+Founder of [Wicflow](https://wicflow.com), focused on building AI that brings ROI to companies.
+I build practical tools, products and automations across business functions.
 
 ---
 
-#### Hackathon builds
+#### Hackathon wins & builds
+
+Winner at **Prompt Sales Hackathon** (Aaltoes, June 2026) and **JunctionX Turku 2026**.
 
 Team prototypes from JunctionX Turku 2026:
 
